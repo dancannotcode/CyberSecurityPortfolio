@@ -18,3 +18,7 @@ In what ways can my Strength, values, and interest in Cybersecurity support the 
 my programming skills helps me be able to build reusable programms that can help with security control, and audits. While my problem solving skills can be used to be able to better protect or respond against security risks. While my communication skills allows me to be able to build not just chemistry with my group and cultivate a better safer environment, but also to be able to inform others about my ideas.
 -->
 I am an analytical and passionate cybersecurity analyst. I priortize protecting people form potential security risks by building secure programs. By assimiliating all the information that is given to me I choose the best course of actions for threat all while making sure cool heads prevail when threats are present to ensure a safer environment in not just the network, but the physical space as well.
+<br>
+<H2> Mock Security Report</H2>
+[https://docs.google.com/document/d/1Ut_H5A9FHwuQEy6_qG6Lfy3zwF6GSJnj3DZTMaNRWEE/template/preview?resourcekey=0-i4dR5qZFqQyfzr8uk3OOmA](https://docs.google.com/document/d/1RSI8XRYXOlfGJOAit-gakbO5BYEOor-P_tPGw-IZLsM/edit?usp=sharing)
+https://docs.google.com/document/d/1JTgbyfRcTCb0aCJIfWQnr4GgHd0Yt6Wa4wDKcXYiVVc/edit?tab=t.0
